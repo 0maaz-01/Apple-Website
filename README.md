@@ -49,7 +49,7 @@ This website allows you to explore a detailed 3D model of the iPhone 15 Pro, pro
 ---
 
 ## Responsiveness 🌐 : ( Click on the image to watch the video )
-[<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/Ab.png" alt="Thumbnail" width="320" height="180">](https://youtu.be/BfGCA9gOY4w)
+[<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/Ab.png" alt="Thumbnail" width="320" height="180">](https://youtu.be/wivwzfPWoDg?si=PWw8K3v9ofnPxgFQ)
 
 ## How the website appears on desktop 💻 :  ( Click on the image to watch the video )
 [<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/An.png" alt="Thumbnail" width="320" height="200">](https://youtu.be/wivwzfPWoDg?si=tOMaQoXfh67KGZTB)
