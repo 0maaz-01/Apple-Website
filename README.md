@@ -1,8 +1,7 @@
-
-# 𝐋𝐢𝐯𝐞 𝐋𝐢𝐧𝐤 : https://apple-website-alpha-five.vercel.app/
+# Live Link - [ Iphone Landing Page 📱 ](https://apple-website-alpha-five.vercel.app/)
 
 ---
-# 📱 iPhone 15 Pro Website with 3D Model :
+# 📱 iPhone 15 Pro Website Landing Page with 3D Model :
 
 This website allows you to explore a detailed 3D model of the iPhone 15 Pro, providing an interactive and visually immersive experience. Built with modern web technologies, it is fully responsive, ensuring a seamless experience across all devices. 🌐
 ---
