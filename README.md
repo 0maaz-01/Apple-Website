@@ -33,6 +33,32 @@ This website allows you to explore a detailed 3D model of the iPhone 15 Pro, pro
 7. **Footer Section**: 📘 The footer contains additional details and links related to the iPhone 15 Pro and the website.
 
 ---
+## Screenshots & Demo 📸
+
+### 💻 Desktop View
+
+<img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/A.png" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/B.png" alt="Thumbnail" width="320" height="180"> 
+<img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/C.png" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/D.png" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/E.png" alt="Thumbnail" width="320" height="180">  
+
+  
+### 📱 Mobile View
+
+<img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/AM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/BM.jpg" alt="Thumbnail" width="220" height="500"><img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/CM.jpg" alt="Thumbnail" width="220" height="500"><img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/DM.jpg" alt="Thumbnail" width="220" height="500"><img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/EM.jpg" alt="Thumbnail" width="220" height="500">
+<img src="https://github.com/0maaz-01/Apple-Website/blob/main/ReadMe/FM.jpg" alt="Thumbnail" width="220" height="500">
+
+---
+
+
+## Responsiveness 🌐 : ( Click on the image to watch the video )
+[<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/Ab.png" alt="Thumbnail" width="320" height="180">](https://youtu.be/wivwzfPWoDg?si=PWw8K3v9ofnPxgFQ)
+
+## How the website appears on desktop 💻 :  ( Click on the image to watch the video )
+[<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/An.png" alt="Thumbnail" width="320" height="200">](https://youtu.be/MeRm6c_OjMs)
+
+## How the website appears on mobile 📱 :  ( Click on the image to watch the video )
+[<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/1.png" alt="Thumbnail" width="220" height="500">](https://youtube.com/shorts/nLpjSAjnsVE?feature=share)
+---
+
 
 ## 🚀 Tech Stack
 
@@ -47,17 +73,6 @@ This website allows you to explore a detailed 3D model of the iPhone 15 Pro, pro
 - **Three.js** :  JavaScript library for creating 3D content.
 - **React JS** :  Library for building the UI in a component-based architecture.
 
-
----
-
-## Responsiveness 🌐 : ( Click on the image to watch the video )
-[<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/Ab.png" alt="Thumbnail" width="320" height="180">](https://youtu.be/wivwzfPWoDg?si=PWw8K3v9ofnPxgFQ)
-
-## How the website appears on desktop 💻 :  ( Click on the image to watch the video )
-[<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/An.png" alt="Thumbnail" width="320" height="200">](https://youtu.be/MeRm6c_OjMs)
-
-## How the website appears on mobile 📱 :  ( Click on the image to watch the video )
-[<img src="https://github.com/0maaz-01/Apple-Website/blob/main/public/1.png" alt="Thumbnail" width="220" height="500">](https://youtube.com/shorts/nLpjSAjnsVE?feature=share)
 
 ---
 
